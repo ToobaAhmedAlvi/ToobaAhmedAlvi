@@ -1,9 +1,8 @@
 ### Hi there 👋
 <h1> My Bio</h1>
 <pr>Adapting to diverse environments, embracing inclusivity, and immersing in new experiences are the top key attributes I stand for. I am <b>Tooba Ahmed Alvi</b>, an individual with passion to grow in the field of data science and conquer new worlds.
-I have a bachelor’s in software engineering from NED University of Engineering and Technology. I completed my degree in October 2022 with a CGPA of 3.71/4.0.
-I possess a varied professional background, having engaged with individuals worldwide, primarily from Sri Lanka, the UK, US, and India, while collaborating on numerous projects during my Bachelors.
-During my professional journey at AKU, I secured 1st position for the oral presentation in Theme "Heal to Thrive" at the "5th Annual Pediatrics' Research Conference 2023" by Aga Khan University. Fortunately, I also got featured by  <a href="https://www.youtube.com/watch?v=dR2l-XOk4P4">Google Pakistan YouTube Channel</a> in collaboration with Institute of Rural Management (IRM) as part of successful and inspiring stories under Google Career Certificate program – the only individual from Karachi. Furthermore, my involvement in numerous machine-learning online competitions and bootcamps reflects my enthusiasm for exploring and learning from new opportunities.</pr>
+I have a bachelor’s in software engineering from NED University of Engineering and Technology.I possess a varied professional background, having engaged with individuals worldwide, primarily from Sri Lanka,the UK,US,and India, while collaborating on numerous projects during my Bachelors.
+During my professional journey at AKU, I secured 1st position for the oral presentation in Theme "Heal to Thrive" at the <b>"5th Annual Pediatrics' Research Conference 2023"</b> by Aga Khan University. Fortunately, I also got featured by  <a href="https://www.youtube.com/watch?v=dR2l-XOk4P4">Google Pakistan YouTube Channel</a> in collaboration with <b>Institute of Rural Management (IRM)</b>as part of successful and inspiring stories under <b>Google Career Certificate program</b> – the only individual from Karachi. Furthermore, my involvement in numerous machine-learning online competitions and bootcamps reflects my enthusiasm for exploring and learning from new opportunities.</pr>
 <br>
 <h2> My Current Role </h2>
 <ul>
@@ -13,9 +12,10 @@ During my professional journey at AKU, I secured 1st position for the oral prese
 <li> 🤔 I’m looking for help with Large Language Models and Prompt Engineering.</li>
 <li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
 <li> 📫 How to reach me:
-  -Medium  [https://medium.com/@alvi.tooba]
-  -LinkedIn [https://www.linkedin.com/in/tooba-ahmed-alvi/]
-  -WordPress [https://alvi15.home.blog/]</li>
+  <a href="https://medium.com/@alvi.tooba">-Medium </a>
+  <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/">-LinkedIn</a>
+  <a href="https://alvi15.home.blog/">-WordPress  </a>
+</li>
 <li> 😄 My good names: Tooba, Toobz, Alvi</li>
 <li>⚡ Fun fact: I love reading and writing poetry.</li>
 </ul>
