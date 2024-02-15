@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-*ToobaAhmedAlvi/ToobaAhmedAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ToobaAhmedAlvi/ToobaAhmedAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on Power BI dashboards, DAX Studio for writing and executing DAX queries against my Power BI data.
