@@ -13,10 +13,10 @@ During my professional journey at AKU, I secured 1st position for the oral prese
 <li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
 <li> 📫 How to reach me:
   <a href="https://medium.com/@alvi.tooba">- Medium </a>
+  <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
   <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/">-LinkedIn</a>
   <a href="https://alvi15.home.blog/">-WordPress  </a> 
-  <img href="https://www.linkedin.com/in/tooba-ahmed-alvi/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkediN" style="width:500px;height:600px">
-</li>
+  </li>
 <li> 😄 My good names: Tooba, Toobz, Alvi</li>
 <li>⚡ Fun fact: I love reading and writing poetry.</li>
 </ul>
