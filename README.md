@@ -7,17 +7,17 @@ During my professional journey at AKU, I secured 1st position for the oral prese
 <br>
 <h2> My Current Role </h2>
 <ul>
-- 🔭 I’m currently working on Power BI dashboards, DAX Studio for writing and executing DAX queries against my Power BI data.
-- 🌱 I’m currently learning "Building LLM Applications" Course on Maven (https://maven.com/boring-bot/ml-system-design/2024-cohort-1)
-- 👯 I’m looking to collaborate on Data Science projects related to Natural Language Processing and Machine Learning
-- 🤔 I’m looking for help with Large Language Models and Prompt Engineering.
-- 💬 Ask me anything about my achievements, goals and dreams about Life. 
-- 📫 How to reach me:
-  - Medium  [https://medium.com/@alvi.tooba]
-  - LinkedIn [https://www.linkedin.com/in/tooba-ahmed-alvi/]
-  - WordPress [https://alvi15.home.blog/]
-- 😄 My good names: Tooba, Toobz, Alvi
-- ⚡ Fun fact: I love reading and writing poetry.
+<li> 🔭 I’m currently working on Power BI dashboards, DAX Studio for writing and executing DAX queries against my Power BI data. </li>
+<li>🌱 I’m currently learning "Building LLM Applications" Course on Maven (https://maven.com/boring-bot/ml-system-design/2024-cohort-1)</li>
+<li> 👯 I’m looking to collaborate on Data Science projects related to Natural Language Processing and Machine Learning</li>
+<li> 🤔 I’m looking for help with Large Language Models and Prompt Engineering.</li>
+<li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
+<li> 📫 How to reach me:
+  -Medium  [https://medium.com/@alvi.tooba]
+  -LinkedIn [https://www.linkedin.com/in/tooba-ahmed-alvi/]
+  -WordPress [https://alvi15.home.blog/]</li>
+<li> 😄 My good names: Tooba, Toobz, Alvi</li>
+<li>⚡ Fun fact: I love reading and writing poetry.</li>
 </ul>
 
 | Rank  | Languages |
