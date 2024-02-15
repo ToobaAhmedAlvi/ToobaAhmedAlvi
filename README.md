@@ -12,8 +12,8 @@ During my professional journey at AKU, I secured 1st position for the oral prese
 <li> 🤔 I’m looking for help with Large Language Models and Prompt Engineering.</li>
 <li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
 <li> 📫 How to reach me:
-  <a href="https://medium.com/@alvi.tooba">-<img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"> Medium </img></a>
-  <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/">-LinkedIn</a>
+  <a href="https://medium.com/@alvi.tooba">- Medium </a>
+  <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/"><img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">-LinkedIn</a>
   <a href="https://alvi15.home.blog/">-WordPress  </a>
 </li>
 <li> 😄 My good names: Tooba, Toobz, Alvi</li>
