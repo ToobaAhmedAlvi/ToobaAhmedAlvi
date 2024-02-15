@@ -1,7 +1,8 @@
 <h1> My Bio</h1>
 <p style="text-align:justify">Adapting to diverse environments, embracing inclusivity, and immersing in new experiences are the top key attributes I stand for. I am <b>Tooba Ahmed Alvi</b>, an individual with passion to grow in the field of data science and conquer new worlds.<br>
 I have a bachelor’s in software engineering from <b>NED University of Engineering and Technology</b>.I possess a varied professional background, having engaged with individuals worldwide, primarily from Sri Lanka,the UK,US,and India, while collaborating on numerous projects during my Bachelors.<br>
-During my professional journey at AKU, I secured <b>1st position</b> for the oral presentation in Theme "Heal to Thrive" at the <b>"5th Annual Pediatrics' Research Conference 2023"</b> by <b>Aga Khan University</b>. Fortunately, I also got featured by  <a href="https://www.youtube.com/watch?v=dR2l-XOk4P4">Google Pakistan YouTube Channel</a> in collaboration with <b>Institute of Rural Management (IRM)</b>as part of successful and inspiring stories under <b>Google Career Certificate program</b> – the only individual from Karachi. Furthermore, my involvement in numerous machine-learning online competitions and bootcamps reflects my enthusiasm for exploring and learning from new opportunities.</p>
+During my professional journey at AKU, I secured <b>1st position</b> for the oral presentation in Theme "Heal to Thrive" at the <b>"5th Annual Pediatrics' Research Conference 2023"</b> by <b>Aga Khan University</b>. Fortunately, I also got featured by  <a href="https://www.youtube.com/watch?v=dR2l-XOk4P4">Google Pakistan YouTube Channel</a> in collaboration with <b>Institute of Rural Management (IRM)</b>as part of successful and inspiring stories under <b>Google Career Certificate program</b>–the only individual from Karachi. Furthermore, my involvement in numerous machine-learning online competitions and bootcamps reflects my enthusiasm for exploring and learning from new opportunities.
+</p>
 <h2> My Current Role </h2>
 <ul>
 <li> 🔭 I’m currently working on Power BI dashboards,python scripts and DAX Studio for writing and executing DAX queries against my Power BI data. </li>
@@ -16,9 +17,10 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
  <a href="https://alvi15.home.blog/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt= "WordPress" style="width:42px;height:42px;"></a> 
  </li>
 <li> 😄 My good names: Tooba, Toobz, Alvi</li>
-<li>⚡ Fun fact: I love reading and writing poetry.</li>
+<li>⚡ Fun fact: I love reading and writing Urdu poetry.</li>
 </ul>
 
+## My Top 3 Tech Stack
 | Rank | Languages     |     
 |-----:|---------------|
 |     1| Python        |
