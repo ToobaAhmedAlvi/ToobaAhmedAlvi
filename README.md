@@ -1,3 +1,7 @@
+<style> p {
+  text-align: justify;
+}
+ </style>
 <h1> My Bio</h1>
 <p>Adapting to diverse environments, embracing inclusivity, and immersing in new experiences are the top key attributes I stand for. I am <b>Tooba Ahmed Alvi</b>, an individual with passion to grow in the field of data science and conquer new worlds.<br>
 I have a bachelor’s in software engineering from <b>NED University of Engineering and Technology</b>.I possess a varied professional background, having engaged with individuals worldwide, primarily from Sri Lanka,the UK,US,and India, while collaborating on numerous projects during my Bachelors.<br>
