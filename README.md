@@ -6,7 +6,7 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 <h2> My Current Role </h2>
 <ul>
 <li> 🔭 I’m currently working on Power BI dashboards,python scripts and DAX Studio for writing and executing DAX queries against my Power BI data. </li>
-<li>🌱 I’m currently learning "Building LLM Applications" Course on <a href= "https://maven.com/boring-bot/ml-system-design/2024-cohort-1"> Maven </a></li>
+<li> 🌱 I’m currently learning "Building LLM Applications" Course on <a href= "https://maven.com/boring-bot/ml-system-design/2024-cohort-1"> Maven </a></li>
 <li> 👯 I’m looking to collaborate on Data Science projects related to Natural Language Processing and Machine Learning.</li>
 <li> 🤔 I’m looking for help with Large Language Models and Prompt Engineering.</li>
 <li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
@@ -16,7 +16,7 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
   <a href="https://www.linkedin.com/in/tooba-ahmed-alvi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width:42px;height:42px;"></a>
  <a href="https://alvi15.home.blog/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt= "WordPress" style="width:42px;height:42px;"></a> 
  </li>
-<li> 😄 My good names: Tooba, Toobz, Alvi</li>
+<li><a href="https://urlit.net/alvi-tooba"> 😄 My good names: Tooba, Toobz, Alvi</li>
 <li>⚡ Fun fact: I love reading and writing Urdu poetry.</li>
 </ul>
 
