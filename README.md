@@ -6,7 +6,8 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 <h2> My Current Role </h2>
 <ul>
 <li> 🔭 I’m currently working on Power BI dashboards,python scripts and DAX Studio for writing and executing DAX queries against my Power BI data. </li>
-<li> 🌱 I’m currently learning "Building LLM Applications" Course on <a href= "https://maven.com/boring-bot/ml-system-design/2024-cohort-1"> Maven </a></li>
+  <li> 🔭 I’m currently revising core porgramming concepts at Code In Place course on <a href= "https://codeinplace.stanford.edu/"> Stanford Online. </a> </li>
+<li> 🌱 I have recently graduated from "Building LLM Applications" Course on <a href= "https://maven.com/boring-bot/ml-system-design/2024-cohort-1"> Maven </a> in February 2024.</li>
 <li> 👯 I’m looking to collaborate on Data Science projects related to Natural Language Processing and Machine Learning.</li>
 <li> 🤔 I’m looking for help with Large Language Models and Prompt Engineering.</li>
 <li> 💬 Ask me anything about my achievements, goals and dreams about Life. </li>
