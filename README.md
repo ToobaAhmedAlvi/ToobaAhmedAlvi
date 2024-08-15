@@ -28,18 +28,6 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 |     2| SQL           |
 |     3| DAX           |
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 ## My GitHub Stats
 [![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi&show_icons=true&theme=radical)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
 
@@ -47,7 +35,7 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaAhmedAlvi&layout=compact)
 
 ## Top Repositories
- 
+
 <div width="100%" align="center"><a href="https://github.com/ToobaAhmedAlvi/Code_In_Place_2024/tree/master/Code_In_Place_2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ToobaAhmedAlvi&repo=Code_In_Place_2024&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/ToobaAhmedAlvi/maven-analytics-challenge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ToobaAhmedAlvi&repo=maven-analytics-challenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
