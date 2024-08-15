@@ -29,10 +29,10 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 |     3| DAX           |
 
 
-b>My GitHub Stats</b>
+## My GitHub Stats
  
-<a href="http://www.github.com/ToobaAhmedAlvi"><img src="https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TOobaAhmedAlvi's GitHub stats" /></a>
-[![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
-<b>Top Repositories</b>
+[![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi&show_icons=true&theme=radical)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
+ 
+ ## Top Repositories
  
 <div width="100%" align="center"><a href="https://github.com/Jawwad011/DeepLearning-Shape-Ai-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad011&repo=DeepLearning-Shape-Ai-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jawwad011/Python_Machine_Learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad011&repo=Python_Machine_Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
