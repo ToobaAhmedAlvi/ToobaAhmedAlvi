@@ -28,11 +28,15 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 |     2| SQL           |
 |     3| DAX           |
 
-
 ## My GitHub Stats
- 
 [![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi&show_icons=true&theme=radical)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
- 
+
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaAhmedAlvi&layout=compact)
+
+ ## WalkTime Stats
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToobaAhmedAlvi)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
  ## Top Repositories
  
-<div width="100%" align="center"><a href="https://github.com/Jawwad011/DeepLearning-Shape-Ai-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad011&repo=DeepLearning-Shape-Ai-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jawwad011/Python_Machine_Learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad011&repo=Python_Machine_Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ToobaAhmedAlvi/Code_In_Place_2024/tree/master/Code_In_Place_2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ToobaAhmedAlvi&repo=Code_In_Place_2024&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ToobaAhmedAlvi/LLM-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ToobaAhmedAlvi&repo=LLM-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
