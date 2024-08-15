@@ -28,6 +28,18 @@ During my professional journey at AKU, I secured <b>1st position</b> for the ora
 |     2| SQL           |
 |     3| DAX           |
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ## My GitHub Stats
 [![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToobaAhmedAlvi&show_icons=true&theme=radical)](https://github.com/ToobaAhmedAlvi/github-readme-stats)
 
